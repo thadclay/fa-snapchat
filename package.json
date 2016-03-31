@@ -1,0 +1,16 @@
+{
+  "name": "fa-snapchat",
+  "version": "1.0.0",
+  "description": "Snapchat icon for Font Awesome",
+  "style": "fa-snapchat.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadclay/fa-snapchat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadclay/fa-snapchat/issues"
+  },
+  "homepage": "https://github.com/thadclay/fa-snapchat#readme"
+}
