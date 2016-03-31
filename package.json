@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Snapchat icon for Font Awesome",
   "style": "fa-snapchat.css",
+  "keywords": [ "Snapchat", "font", "awesome", "fa", "fa-snapchat" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thadclay/fa-snapchat.git"
